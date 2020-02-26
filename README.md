@@ -1,3 +1,3 @@
 # PaginaWebDesdeCero
 
-## pagina echa con HTML5 Y CSS3
+## pagina hecha con HTML5 Y CSS3
